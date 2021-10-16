@@ -2,21 +2,21 @@
     background-color:  #264653;
     color: white;
 }
-.menu {
+/*.menu {
     text-decoration: none;
     color: white;
     font-size: 18px;
     padding: 10px 10px 10px 10px;
     
-}
+}*/
 .bton{
     background-color: #E76F51;
 }
-.img-width img{
+/*.img-width img{
     width: 100%;
     padding-left: 150px;
     padding-bottom: 40px;
-}
+}*/
 .blod hr{
     width: 75px;
     text-align: center;
@@ -52,10 +52,7 @@
 .sec-header span{
     color: #E76F51;
 }
-.footer{
-    background-color:#0B0D17;
-   
-}
+
 .copyright{
     color: white;
     margin-left: 65px;
@@ -69,6 +66,7 @@
     font-size: 20px;
     font-weight: 200;
 }
-.half-width{
-    padding-right: 150px;
-}
+
+
+
+
